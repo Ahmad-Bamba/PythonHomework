@@ -1,0 +1,23 @@
+2012, "Argo", Drama
+2011, "The Artist", Silent
+2010, "The King's Speech", Biographical
+2009, "The Hurt Locker", War
+2008, "Slumdog Millionaire", Romance
+2007, "No Country for Old Men", Action
+2006, "The Departed", Thriller
+2005, "Crash", Drama
+2004, "Million Dollar Baby", Sports
+2003, "The Lord of the Rings: The Return of the King", Fantasy
+2002, "Chicago", Musical
+2001, "A Beautiful Mind", Documentary
+2000, "Gladiator”, Adventure
+1999, "American Beauty", Comedy
+1998, "Shakespeare in Love", Romance
+1997, "Titanic", Action
+1996, "The English Patient", Fiction
+1995, "Braveheart", Action
+1994, "Forrest Gump", Comedy
+1993, "Schindler’s List", War
+1992, "Unforgiven", Western
+1991, "The Silence of the Lambs", Thriller
+1990, "Dances with Wolves", Western
