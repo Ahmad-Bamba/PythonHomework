@@ -3,6 +3,7 @@
 # 12/09/2016
 
 # This code assumes the days of Christmas are listed in order.
+# I have no idea why this works but it does so I'm not gonna touch it
 
 import sys
 
@@ -25,11 +26,19 @@ _file.close()
 
 lines = raw.splitlines()
 formatted = [line.split(",") for line in lines]
-# print formatted debugging pls ignore
+print formatted
 days = []
 
 for thing in formatted:
     days.append(Day(thing))
+
+def calc(num):
+    total = 0.00
+    for i in xrange(num):
+        day = days[i]
+        total += float(day.getPrice()) * float(day.getNumber())
+        print "\t" + str(day.getNumber()) + " : " + str(day.getGift()) + " : " + str(day.getPrice())
+    return total
 
 while True:
     user = raw_input("\nEnter day of Christmas(q to quit): ")
@@ -40,9 +49,9 @@ while True:
         print "Not a valid day number"
     else:
         print "The gifts for day " + str(user.lower()) + " are:"
+        print "Price of day " + user + " : "  + "$" + "{0:.2f}".format(calc(int(user)))
         total = 0.00
-        for i in xrange(int(user.lower())):
-            day = days[i]
-            total += float(day.getPrice()) * float(day.getNumber())
-            print "\t" + str(day.getNumber()) + " : " + str(day.getGift()) + " : " + str(day.getPrice())
-        print "Price of day " + user + " : "  + "$" + "{0:.2f}".format(total)
+        for i in xrange(int(user)):
+            print calc(i + 1)
+            total += calc(i + 1)
+        print "Price of all the days: " + "$" + "{0:.2f}".format(total)
