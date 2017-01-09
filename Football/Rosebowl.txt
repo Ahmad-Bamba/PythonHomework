@@ -1,0 +1,100 @@
+1902 Michigan
+1916 Washington State
+1917 Oregon
+1918 Mare Island USMC
+1919 Great Lakes US Navy
+1920 Harvard
+1921 California
+1922 California
+1923 USC 
+1924 Washington
+1925 Notre Dame
+1926 Alabama
+1927 Stanford
+1928 Stanford
+1929 Georgia Tech
+1930 USC
+1931 Alabama
+1932 USC
+1933 USC
+1934 Columbia
+1935 Alabama
+1936 Stanford
+1937 Pittsburgh
+1938 California
+1939 USC
+1940 USC
+1941 Stanford
+1942 Oregon State
+1943 Georgia
+1944 USC
+1945 USC
+1946 Alabama
+1947 Illinois
+1948 Michigan
+1949 Northwestern
+1950 Ohio State
+1951 Michigan
+1952 Illinois
+1953 USC
+1954 Michigan State
+1955 Ohio State
+1956 Michigan State
+1957 Iowa
+1958 Ohio State
+1959 Iowa
+1960 Washington
+1961 Washington
+1962 Minnesota
+1963 USC
+1964 Illinois
+1965 Michigan
+1966 UCLA
+1967 Purdue
+1968 USC
+1969 Ohio State
+1970 USC
+1971 Stanford
+1972 Stanford
+1973 USC
+1974 Ohio State
+1975 USC
+1976 UCLA
+1977 USC
+1978 Washington
+1979 USC
+1980 USC
+1981 Michigan
+1982 Washington
+1983 UCLA
+1984 UCLA
+1985 USC
+1986 UCLA
+1987 Arizona State
+1988 Michigan State
+1989 Michigan
+1990 USC
+1991 Washington
+1992 Washington
+1993 Michigan
+1994 Wisconsin
+1995 Penn State
+1996 USC
+1997 Ohio State
+1998 Michigan
+1999 Wisconsin
+2000 Wisconsin
+2001 Washington
+2002 Miami
+2003 Oklahoma
+2004 USC
+2005 Texas
+2006 Texas
+2007 USC
+2008 USC
+2009 USC
+2010 Ohio State
+2011 TCU
+2012 Oregon
+2013 Stanford
+2014 Michigan State
